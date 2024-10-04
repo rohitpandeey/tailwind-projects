@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tailwind basics</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+</head>
+<body>
+<div class="main w-full h-screen bg-white font-['gilroy']">
+    <div class="container relative h-screen mx-auto ">
+        <div class="navbar flex justify-between items-center w-full py-6 px-4  ">
+            <h3 class="font-semibold">Website name</h3>
+            <div class="hidden lg:flex links gap-10">
+                <a class="text-sm " href="#">Works</a>
+                <a class="text-sm opacity-50" href="#">Service</a>
+                <a class="text-sm opacity-50" href="#">Contact</a>
+                <a class="text-sm opacity-50" href="#">Pricing</a>
+            </div>
+            <i class="ri-menu-line lg:hidden "></i>
+        </div>
+        <div class="absolute top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%] w-full flex flex-col items-center">
+            <div class="image w-24 h-24 lg:h-32 lg:w-32  bg-purple-100  rounded-full flex items-center justify-center" >
+                <img class="w-14 h-14 lg-w20 object-cover " src="./carto.png " alt="img">
+            </div>
+            <h3 class="lg:text-2xl font-semibold text-xl mt-4 tracking-tighter">Hi, I'm Rohit👋</h3>
+            <h1 class="text-4xl lg:text-5xl w-3/4 font-semibold text-center leading-none mt-3 tracking-tighter">Building digital products, brands and experiences</h1>
+            <p class="text-center lg:text-lg lg:opacity-50 w-3/4 mt-4 text-sm font-semibold tracking-tighter">Hi, I'm Rohit Building digital products , designs, Front End and  Backend Web Development</p>
+            <button class="px-4 py-2 lg:py-3 lg:px-6  bg-black text-white rounded-full text-xs lg:text-base lg:font-medium font-semibold mt-4">Connect With Me</button>
+        </div>
+        
+    </div>
+</div>
+</body>
+</html> 

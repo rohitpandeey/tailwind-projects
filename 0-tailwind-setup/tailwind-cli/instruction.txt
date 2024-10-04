@@ -1,0 +1,8 @@
+steps
+1. npm init -y //create package.json file
+2. 
+npm install -D tailwindcss //-D means Developer version that does not go in production
+npx tailwindcss init // create tailwind.config.js
+
+in package.json add "type": "module"
+

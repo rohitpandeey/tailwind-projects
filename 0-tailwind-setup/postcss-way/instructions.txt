@@ -1,0 +1,12 @@
+**Using PostCSS**
+- Install node
+- Run commands
+- npm install -D tailwindess postcss autoprefixer vite
+- npm tailwindcss init -p
+- Install tailwind css intelisense extension
+- Add * in content
+- Add scripts in package.json
+- Create main.css and insert and link :
+    1. @tailwind base;
+    2. @tailwind components;
+    3. @tailwind utilities;
