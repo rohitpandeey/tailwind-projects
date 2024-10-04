@@ -3,5 +3,5 @@ I am currently learning Tailwind CSS and will be consistently updating this repo
 
 # Content index
 
-1- Basic-Website - Created Using tailwind and is fully responsive
-2- Login Screen - Created Minimilist Login Screen
+1- Basic-Website - Created Using tailwind and is fully responsive\
+2- Login Screen - Created Minimilist Login Screen\
