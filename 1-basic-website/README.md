@@ -3,7 +3,7 @@ I started learning Tailwind Css today, made this simple static website and this 
 
 Have a Look At it. 
 
-![Project Screenshot Web](./project-screenshot/mobile.png)
+![Project Screenshot Web](./project-screenshot/web.png)
 
 ![Project Screenshot Mobile](./project-screenshot/mobile.png)
 
